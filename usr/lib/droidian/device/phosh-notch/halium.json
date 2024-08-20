@@ -1,0 +1,12 @@
+{
+    "name": "Lenovo ThinkPhone",
+    "x-res": 1080,
+    "y-res": 2400,
+    "border-radius": 75,
+    "cutouts": [
+        {
+            "name": "notch",
+            "path": "L 570,0 L 570,110 L 510,110"
+        }
+    ]
+}

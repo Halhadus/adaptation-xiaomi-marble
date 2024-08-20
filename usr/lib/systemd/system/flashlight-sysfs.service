@@ -1,0 +1,11 @@
+[Unit]
+Description=force flashlightd to not write to flash_1 and flash_2
+Requires=lxc@android.service
+After=phosh.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/sbin/flashlight-sysfs
+
+[Install]
+WantedBy=graphical.target

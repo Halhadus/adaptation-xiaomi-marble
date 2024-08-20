@@ -1,0 +1,4 @@
+#!/bin/bash
+
+mount --bind /dev/null /sys/class/leds/led:flash_1/brightness
+mount --bind /dev/null /sys/class/leds/led:flash_2/brightness

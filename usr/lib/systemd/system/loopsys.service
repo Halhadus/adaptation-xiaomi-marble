@@ -1,0 +1,10 @@
+[Unit]
+Description=Loop sys
+
+[Service]
+Restart=always
+RestartSec=5
+ExecStart=/loopsys.sh
+
+[Install]
+WantedBy=multi-user.target

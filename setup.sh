@@ -14,5 +14,7 @@ cp -rf /adaptation-xiaomi-marble/* /
 echo "__EGL_VENDOR_LIBRARY_FILENAMES=/usr/share/glvnd/egl_vendor.d/10_libhybris.json" >> /etc/environment
 echo "HYBRIS_LD_LIBRARY_PATH=/system_ext/lib64:/product/lib64:/odm/lib64:/vendor/lib64/soundfx:/vendor/lib64/hw:/vendor/lib64:/system/lib64:/apex/com.android.runtime/lib64:/apex/com.android.runtime/lib64/bionic" >> /etc/environment
 
-systemctl enable droidian-perf brightness flashlight-sysfs comple loopsys
+systemctl enable droidian-perf brightness flashlight-sysfs
+#systemctl enable loopsys comple
 systemctl mask serial-getty@hvc0.service
+systemctl mask droidian-fpd

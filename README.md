@@ -1,11 +1,10 @@
-# NOT READY!
 # xiaomi-marble Adaptation Files for Droidian:
 
 ## What's works
 
 ### Camera: 
 
-Takes photo but cannot record videos
+Takes photo(16MP) but cannot record videos
 
 ### Sensors:
 
@@ -70,6 +69,18 @@ Takes photo but cannot record videos
 * Encryption: ❌
 
 * MTP: ?
+
+* Fast charging: 45W(stock have 67W)
+
+## Known bugs:
+
+* 3~ minutes to boot
+
+* Pulseaudio (pulseaudio.service audiosystem-passthrough.service) and ofono (ofono.service ModemManager.service) sometimes not starts at boot and need restart. After that works great.
+
+* Sometimes uses 10~% of battery at boot.
+
+* DON'T TRY FINGERPRINT!
 
 ## Thanks to:
 

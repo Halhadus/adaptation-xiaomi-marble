@@ -5,7 +5,7 @@
 
 ### Camera: 
 
-Takes photo but cannot record videos(didn't tried droidian-camera yet)
+Takes photo but cannot record videos
 
 ### Sensors:
 
@@ -15,7 +15,7 @@ Takes photo but cannot record videos(didn't tried droidian-camera yet)
 
 * Fingerprint: ❌(don't try it!)
 
-* Auto brightness: ?
+* Auto brightness: ❌
 
 * Proximity: ✔
 
@@ -25,13 +25,13 @@ Takes photo but cannot record videos(didn't tried droidian-camera yet)
 
 * Calls: ✔
 
-* Data: ❌
+* Data: ✔
 
 * SMS: ✔
 
 * Carrier info: ✔
 
-* Dual SIM: ✔(partially)
+* Dual SIM: ❌
 
 * MMS: ✔
 
@@ -57,15 +57,15 @@ Takes photo but cannot record videos(didn't tried droidian-camera yet)
 
 * Hotspot: ✔
 
-* NFC: ✔
+* NFC: ?
 
 ### Misc:
 
 * SDcard: ✔
 
-* Waydroid: ✔
+* Waydroid: ❌(didn't tried, installer says it can't install it)
 
-* GPS: ?
+* GPS: ✔
 
 * Encryption: ❌
 

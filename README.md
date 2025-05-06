@@ -4,7 +4,7 @@
 
 ### Camera: 
 
-Takes photo(16MP) but cannot record videos
+Takes photos but cannot record videos
 
 ### Sensors:
 
@@ -70,7 +70,7 @@ Takes photo(16MP) but cannot record videos
 
 * MTP: ?
 
-* Fast charging: 45W(stock have 67W)
+* Fast charging: Interesting but ✔
 
 ## Known bugs:
 

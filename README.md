@@ -56,7 +56,7 @@ Takes photos but cannot record videos
 
 * Hotspot: ✔
 
-* NFC: ?
+* NFC: ?(didn't tried but must work)
 
 ### Misc:
 

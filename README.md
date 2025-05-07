@@ -62,7 +62,7 @@ Takes photos but cannot record videos
 
 * SDcard: ✔
 
-* Waydroid: ❌(didn't tried, installer says it can't install it)
+* Waydroid: ✔(you must put images manually until officially added)
 
 * GPS: ✔
 

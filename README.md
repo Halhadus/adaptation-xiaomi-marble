@@ -5,6 +5,7 @@
 ### Camera: 
 
 Takes photos but cannot record videos
+Update for that info: after start Waydroid, video capturing starts to work. Interesting.
 
 ### Sensors:
 
@@ -87,7 +88,7 @@ Support Group: https://t.me/linuxonmarble
 
 Kernel: https://github.com/android_kernel_xiaomi_marble
 
-Organization link: Not created yet, wait.
+Organization link: https://github.com/droidian-marble
 
 ## Contributors: 
 * Halhadus (https://github.com/Halhadus) (Main porter)

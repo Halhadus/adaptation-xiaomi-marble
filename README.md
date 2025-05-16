@@ -1,5 +1,7 @@
 # xiaomi-marble Adaptation Files for Droidian:
 
+# Deprecated, https://github.com/droidian-marble/
+
 ## What's works
 
 ### Camera: 
